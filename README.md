@@ -10,12 +10,12 @@ $ yarn init -y
 
 ## webpack
 、、、
-$ npm install webpack webpack-dev-server
+$ npm install webpack webpack-dev-server -dev
 、、、
 
 ## babel
 、、、
-$ npm install babel-core babel-loader babel-perset-es2015 babel-preset-stage-0 babel-preset-react css-loader style-loader less-loader html-webpack-plugin --D
+$ npm install babel-core babel-loader babel-perset-es2015 babel-preset-stage-0 babel-preset-react css-loader style-loader less-loader html-webpack-plugin -dev
 、、、
 
 ## react
@@ -25,13 +25,13 @@ $ npm install react redux react-redux react-router-dom -S
 
 ## fetch
 、、、
-$ npm install es6-promise whatwg-fatch  -D
+$ npm install es6-promise whatwg-fatch  -dev
 、、、
 
 ## express
 、、、
-$ npm install express -S
-//$ yarn add express -S
+$ npm install express
+//$ yarn add express
 、、、
 
 ## scripts
