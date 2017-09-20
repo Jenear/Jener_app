@@ -1,6 +1,6 @@
 ## react 技术栈
 - react react-router4 redux react-redux
-//yarn 和 npm  是一样的，但是比npm要快，不过要把install改为add
+//yarn 和 npm  是一样的，但是比npm要快，不过要把install改为add才可以
 
 ## 初始化package.json
 、、、
