@@ -37,5 +37,5 @@ $ npm install express -S
 ## scripts
 、、、
 "start","webpack-dev-server --port 5000 --open --progress --colors",
-"build","webpack -p"(p 是把代码全部压缩）aaaa
+"build","webpack -p"(p 是把代码全部压缩）aaaabbbb
 、、、
