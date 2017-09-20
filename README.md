@@ -1,6 +1,6 @@
 ## react 技术栈
 - react react-router4 redux react-redux
-//yarn 和 npm  是一样的，但是比npm要快
+//yarn 和 npm  是一样的，但是比npm要快，不过要把install改为add
 
 ## 初始化package.json
 、、、
@@ -31,7 +31,7 @@ $ npm install es6-promise whatwg-fatch  -D
 ## express
 、、、
 $ npm install express -S
-//$ yarn install express -S
+//$ yarn add express -S
 、、、
 
 ## scripts
