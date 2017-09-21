@@ -15,7 +15,7 @@ $ npm install webpack webpack-dev-server --save-dev
 
 ## babel
 、、、
-$ npm install babel-core babel-loader babel-preset-es2015 babel-preset-stage-0 babel-preset-react css-loader style-loader less-loader html-webpack-plugin --save-dev
+$ npm install babel-core babel-loader babel-preset-es2015 babel-preset-stage-0 babel-preset-react css-loader style-loader less less-loader html-webpack-plugin --save-dev
 、、、
 
 ## react
@@ -33,6 +33,12 @@ $ npm install es6-promise whatwg-fetch  --save-dev
 $ npm install express --save
 //$ yarn add express
 、、、
+
+## swipe插件
+```
+$ yarn add swipe-js-iso react-swipe
+$ npm install swipe-js-iso react-swipe --save
+```
 
 ## scripts
 、、、
